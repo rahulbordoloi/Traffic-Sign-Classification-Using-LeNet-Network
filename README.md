@@ -11,4 +11,6 @@ This Simple Project is the foundation of Self-Driving Cars.
 
 To Predict : The Type/Class of Traffic Sign Provided
 
->>Install the dependencies from your terminal with "pip install -r requirements.txt"
+>>Install the dependencies from your terminal with "pip install -r requirements.txt"    
+
+Get Dataset from my Google Drive : https://drive.google.com/open?id=1w4ng8Ncc_-a7x1CY0fpxrwMlynsoUHrx
