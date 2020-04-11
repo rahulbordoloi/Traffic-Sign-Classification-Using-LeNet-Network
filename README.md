@@ -1,6 +1,7 @@
 # Traffic-Sign-Classification-Using-LeNet-Network
-A Basic Deep Learning Project using Keras as Tensorflow Backend
-Notebook used : Google Colab
+A Basic Deep Learning Project using Keras as Tensorflow Backend                   
+Notebook used : Google Colab           
+(Tensorflow Version 1.x Used)
 
 This Simple Project is the foundation of Self-Driving Cars.
 
